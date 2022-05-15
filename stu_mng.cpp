@@ -1,6 +1,7 @@
 // Student Management System With File Handing In C++
 /*  
-    Created By- Sagar Developer
+    Created By- Sanjana Chathli
+    
 */
 #include <iostream>
 #include <conio.h>
